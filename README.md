@@ -10,7 +10,7 @@ We wish mainly three goals via this doc:
 
 The documentation is arranged as (also see the TOC below):
 
-* Chapter :ref:`sphinx` introduced how this doc is written and maintained.
+* Chapter :ref:`gitbook` introduced how this doc is written and maintained.
 * Chapter :ref:`git` introduces our collaborative coding tool, Git.
 * Chapter :ref:`wpsite` is temporarily the main part of this doc, which overviewing the coding structure of our products.
 
