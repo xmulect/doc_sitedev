@@ -44,6 +44,10 @@ We can treat ``README.md`` as *Preface* and ``SUMMARY.md`` as *Table of Contents
 ### Push to Github
 
 ```bash
+  git remote add origin https://github.com/xmulect/doc_sitedev.git
+```
+
+```bash
   wget https://raw.githubusercontent.com/github/gitignore/master/GitBook.gitignore
 ```
 
