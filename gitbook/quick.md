@@ -3,6 +3,8 @@
 
 ### Build Node.js and package manager
 
+#### Debian based after Jessie (8.0)
+
 GitBook is developed based on Node.js, it can be installed from package management tool of Node.js, npm. 
 While npm is only included in the package repository of new Linux release versions. 
 *e.g.* after Jessie (8.0) of Debian:
